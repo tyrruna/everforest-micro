@@ -5,7 +5,7 @@ https://micro-editor.github.io/
 
 https://github.com/sainnhe/everforest
 
-Copy "everforest.micro" to ~/.config/micro/colorschemes (or create a new folder named colorschemes if non-existing).
+Put "everforest.micro" in ~/.config/micro/colorschemes (or create a new folder named colorschemes if non-existing).
 
 Add "export MICRO_TRUECOLOR=1" (without quotation marks) to the shell rc file (.zshrc).
 
