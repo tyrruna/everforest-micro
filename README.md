@@ -17,4 +17,4 @@ Open the Micro text editor, press control+e and type "set colorscheme everforest
 
 Done.
 
-<img width="902" height="653" alt="EverforestMicro" src="https://github.com/user-attachments/assets/42a9e88c-f898-49ab-8a54-2ad4bc77bda1" />
+<img width="902" height="653" alt="EverforestMicro" src="https://github.com/user-attachments/assets/d85c4762-8ca8-4749-ae7f-e6d42809b4a7" />
