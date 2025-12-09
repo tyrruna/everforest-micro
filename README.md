@@ -9,6 +9,8 @@ Copy "everforest.micro" to ~/.config/micro/colorschemes (or create a new folder 
 
 Add "export MICRO_TRUECOLOR=1" (without quotation marks) to the shell rc file (.zshrc).
 
+Reload the shell rc file (source ~/.zshrc or restart the Terminal).
+
 Open the Micro text editor, press control+e and type "set colorscheme everforest" (without quotation marks) and press enter.
 
 Done.
