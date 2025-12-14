@@ -16,5 +16,3 @@ Restart the Terminal.
 Open the Micro text editor, press control+e and type "set colorscheme everforest" (without quotation marks) and press enter.
 
 Done.
-
-<img width="754" height="527" alt="Micro" src="https://github.com/user-attachments/assets/1f14329b-6d66-4971-bf27-6f3dceda4490" />
